@@ -9,7 +9,7 @@ git clone https://github.com/WorkBronce/desarrollo-de-apps-movil-p8.git
 Añade tu nombre para crearlo en el url en vez de WorkBronce
 
 Navigate to the Project Directory:
-cd my-awesome-web-project
+cd desarrollo-de-apps-movil-p8
 
 Create the Master Branch:
 git checkout -b master
